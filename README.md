@@ -1,5 +1,5 @@
 # Frequency cryptanalysis
-Allows you to decrypt an encrypted message in Russian
+Allows you to decrypt an encrypted message
 
 ![image](https://user-images.githubusercontent.com/78900834/193094672-38793b50-a1ed-4052-8224-48dda4bd311d.png)
 ***
